@@ -1,2 +1,3 @@
 # vite-react-shadcn-electron
-Simple boilerplate  for Vite React Shadcn and Electron
+
+Simple boilerplate  for Vite React Shadcn and Electron.
